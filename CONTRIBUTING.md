@@ -4,7 +4,7 @@ FarmData2 welcomes participation and contributions. There are many ways to contr
 
 ## Code of Conduct ##
 
-To promote an open, welcoming, inclusive and harassment-free experience, all engagement with FarmData2 is governed by the community standards expressed in the [Contributor Covenent](CODE_OF_CONDUCT.md).
+To promote an open, welcoming, inclusive and harassment-free experience, all engagement with FarmData2 is governed by the community standards expressed in the [Contributor Covenant](CODE_OF_CONDUCT.md).
 
 ## Licensing ##
 
@@ -20,7 +20,7 @@ If you are unfamiliar with [Zulip](https://zulip.com/) it is a group chat applic
 
 There are many ways to participate in FarmData2. Some of them are listed below.  
 
-Having a running version of FarmData2 is a prerequisite for many of the forms of participation.  The [Install Directions] give step by step instructions for getting FarmData2 up and running.
+Having a running version of FarmData2 is a prerequisite for many of the forms of participation.  The [Install Directions] give step-by-step instructions for getting FarmData2 up and running.
 
 [Install Directions]: INSTALL.md
 
@@ -49,22 +49,22 @@ If you are are a user of FarmData2 and have a new feature you would like to see 
 The project [Issue Tracker] contains tickets describing known issues with the project.  The tickets for known issues are tagged with the label "bug".  Each reported bug will have a detailed description of how the bug can be observed. Gardening includes activities such as:
 
   * Verifying or clarifying these descriptions.
-  * Enhance the report by providing additional information about the bug (e.g. platforms on which is is or is not seen).
+  * Enhance the report by providing additional information about the bug (e.g. platforms on which it is or is not seen ).
   * Confirming that bug does (or does not) exist in the current version.
 
 To participate by Gardening visit the [Issue Tracker] and find something of interest to verify, enhance or clarify.  Try it out in your running version of FarmData2 and add a comment to the ticket with what you find.
 
 #### Documentation ####
 
-Update to any of the FarmData2 documentation are welcome.  If you find typos, unclear or missing steps, poorly worded explanations, or have any other suggestions for how the documentation could be improved use the [workflow](#workflow) described below to create a pull request for your suggested changes.
+Updates to any of the FarmData2 documentation are welcome.  If you find typos, unclear or missing steps, poorly worded explanations, or have any other suggestions for how the documentation could be improved use the [workflow](#workflow) described below to create a pull request for your suggested changes.
 
 #### Bug Fix / Feature Implementation ####
 
-Tickets in the [Issue Tracker] that are tagged _bug_ or _enhancement_ describe issues be fixed or new features to be added to FarmData2. The tag _good first issue_ appears on the most approachable tickets.  If you find an issue to work on use the [workflow](#workflow) described below to create a pull request for your suggested bug fix or feature implementation. Information about the languages and technologies that are used in FarmdData2 and pointers to resources for learning more about them can be found in the [Technology On-boarding](#technology-on-boarding) section below.
+Tickets in the [Issue Tracker] that are tagged _bug_ or _enhancement_ describe issues be fixed or new features to be added to FarmData2. The tag _good first issue_ appears on the most approachable tickets.  If you find an issue to work on use the [workflow](#workflow) described below to create a pull request for your suggested bug fix or feature implementation. Information about the languages and technologies that are used in FarmData2 and pointers to resources for learning more about them can be found in the [Technology On-boarding](#technology-on-boarding) section below.
 
 #### Other Thoughts ####
 
-The above is not an exhaustive list of ways to participate in FarmData2. For some other ideas check out [50 Ways to be a FOSSer](http://foss2serve.org/index.php/50_Ways_to_be_a_FOSSer). If anything there seems interesting or if you have other ideas of your own please get in touch and we will be happy to have a discussion about how you might get involved.
+The above is not an exhaustive list of ways to participate in FarmData2. For some other ideas check out [50 Ways to be a FOSSer](http://foss2serve.org/index.php/50_Ways_to_be_a_FOSSer). If anything on there seems interesting or if you have other ideas of your own please get in touch and we will be happy to have a discussion about how you might get involved.
 
 ## Technology Onboarding ##
 
